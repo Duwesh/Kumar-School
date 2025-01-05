@@ -13,6 +13,15 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        /** --- Custom Colors --- */
+        kumarSky: "#C3EBFA",
+        kumarSkyLight: "#EDF9FD",
+        kumarPurple: "#CFCEFF",
+        kumarPurpleLight: "#F1F0FF",
+        kumarYellow: "#FAE27C",
+        kumarYellowLight: "#FEFCE8",
+      },
     },
   },
   plugins: [],
