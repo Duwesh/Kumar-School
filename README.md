@@ -21,6 +21,10 @@ This project is a school management dashboard built with Next.js. It provides an
 - Node.js
 - Postgres
 
+## Live URL
+
+You can view the live project at [Kumar School](https://kumar-school-a3khi5gr8-duwesh-kumars-projects.vercel.app/teacher)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
