@@ -23,7 +23,7 @@ This project is a school management dashboard built with Next.js. It provides an
 
 ## Live URL
 
-You can view the live project at [Kumar School](https://kumar-school-a3khi5gr8-duwesh-kumars-projects.vercel.app/teacher)
+You can view the live project at [Kumar School](https://kumar-school.vercel.app/teacher)
 
 ## Learn More
 
