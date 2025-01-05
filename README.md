@@ -1,26 +1,35 @@
-# Lama Dev School Management Dashboard
+# Kumar School Management Dashboard
 
-## Getting Started
+## Project Description
 
-First, run the development server:
+This project is a school management dashboard built with Next.js. It provides an interface for managing various aspects of a school, including students, teachers, classes, and more.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- User authentication
+- Student management
+- Teacher management
+- Class scheduling
+- Real-time updates
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Node.js
+- Postgres
 
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
 - [Next.js](https://nextjs.org/learn)
+
+## Author
+
+This project is maintained by Duwesh Kumar.
+
+- GitHub: [Duwesh Kumar](https://github.com/duwesh)
+- Email: [imduweshkumar@gmail.com]
